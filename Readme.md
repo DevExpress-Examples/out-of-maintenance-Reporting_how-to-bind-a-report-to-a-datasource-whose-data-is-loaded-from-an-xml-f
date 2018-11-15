@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraReport_RuntimeDataBinding/Form1.cs) (VB: [Form1.vb](./VB/XtraReport_RuntimeDataBinding/Form1.vb))
+<!-- default file list end -->
 # How to bind a report to a datasource, whose data is loaded from an XML file
 
 
